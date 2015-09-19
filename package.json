@@ -1,0 +1,22 @@
+{
+  "name": "tvboardx",
+  "version": "1.0.0",
+  "description": "foobarbaz",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshinx/TVBoardX.git"
+  },
+  "keywords": [
+    "directv"
+  ],
+  "author": "rms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshinx/TVBoardX/issues"
+  },
+  "homepage": "https://github.com/arshinx/TVBoardX#readme"
+}
